@@ -35,6 +35,6 @@ This program was developed as part of the instructional content provided by a Ud
 
 Thank you!
 
-### Rochan V
+**Rochan V:**
 - [GitHub](https://github.com/RochanVanam)
 - [LinkedIn](https://www.linkedin.com/in/rochanvanam/)
