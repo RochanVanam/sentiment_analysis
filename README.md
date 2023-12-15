@@ -30,9 +30,9 @@ The program uses a dataset ```train.csv``` located in the ```data/``` directory.
 This program was developed as part of the instructional content provided by a Udemy course titled "Modern Natural Language Processing," imparting valuable knowledge and practical insights into sentiment analysis techniques using Deep Convolutional Neural Networks (CNN).
 
 ### Udemy Course Info
-- **Course Title: ** Modern Natural Language Processing
-- **Instructor/Creators: ** Martin Jocqueviel, SuperDataScience Team, Ligency Team
-- **URL: ** [https://www.udemy.com/course/modern-nlp/](https://www.udemy.com/course/modern-nlp/)
+- **Course Title:** Modern Natural Language Processing
+- **Instructor/Creators:** Martin Jocqueviel, SuperDataScience Team, Ligency Team
+- **URL:** [https://www.udemy.com/course/modern-nlp/](https://www.udemy.com/course/modern-nlp/)
 
 Thank you!
 
