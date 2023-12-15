@@ -1,6 +1,6 @@
 # Sentiment Analysis Using a Deep Convolutional Neural Network
 ## Overview
-This sentiment analysis program utilizes a Deep Convolutional Neural Network (CNN) to analyze the sentiment of textual data. The CNN architecture is designed to extract features from input text and make predictions about the sentiment expressed in the text. To run the program, follow the instructions below.
+This sentiment analysis program utilizes a Deep Convolutional Neural Network (CNN) to analyze the sentiment of user input. The CNN architecture is designed to extract features from input text and make predictions about the sentiment expressed in the text. To run the program, follow the instructions below.
 
 ## Requirements
 - Python 3.x
