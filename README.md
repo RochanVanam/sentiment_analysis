@@ -14,7 +14,7 @@ This sentiment analysis program utilizes a Deep Convolutional Neural Network (CN
 All required libraries and frameworks can be found at the top of ```sentiment_analysis.py```.
 
 ## Installation
-Clone the repository to your local machine using ``` git clone https://github.com/RochanVanam/sentiment_analysis.git```
+Clone the repository to your local machine using ```git clone https://github.com/RochanVanam/sentiment_analysis.git```.
 
 ## Usage
 1. Make sure you have all the requirements properly installed.
