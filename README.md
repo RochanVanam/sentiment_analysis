@@ -11,7 +11,6 @@ This sentiment analysis program utilizes a Deep Convolutional Neural Network (CN
 - Keras
 - TensorFlow-Datasets
 
-[!TIP]
 All required libraries and frameworks can be found at the top of ```sentiment_analysis.py```.
 
 ## Installation
