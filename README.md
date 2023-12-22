@@ -23,7 +23,7 @@ Clone the repository to your local machine using ```git clone https://github.com
 4. To stop the program, simply stop running it or exit the program.
 
 ## Data
-The program uses a dataset ```train.csv``` located in the ```data/``` directory. It is a csv file containing millions of tweets and their sentiments.
+The program uses a dataset ```train.csv``` located in the ```data/``` directory. It is a csv file containing millions of tweets and their sentiments. The data was provided through a Udemy course listed below.
 
 ## Acknowledgments and Credits
 This program was developed as part of the instructional content provided by a Udemy course titled "Modern Natural Language Processing," imparting valuable knowledge and practical insights into sentiment analysis techniques using Deep Convolutional Neural Networks (CNN).
